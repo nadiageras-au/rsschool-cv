@@ -70,16 +70,18 @@ return finalString;
 
 ### Front end Web developer
 
-**Biz Focused Pty Ltd | June 2021 – September 2021**
+#### Biz Focused Pty Ltd | June 2021 – September 2021
 
 - Custom website development (design, coding HTML,CSS, JQuery -> WordPress) & support
 - Convert website UI design and Bootstrap theme into WordPress Theme
 - Performing Website updates
 - Third-party APIs integration
 
+---
+
 ### Web developer Internship
 
-**InReach Design Innovations Pty Ltd | March 2021 – May 2021**
+#### InReach Design Innovations Pty Ltd | March 2021 – May 2021
 
 - Improve existing WordPress website and add new features
 - Optimise overall website based on google page speed report
@@ -89,7 +91,7 @@ return finalString;
 
 ### Website designer/ Website developer
 
-**Freelancer | May 2018 – Present**
+#### Freelancer | May 2018 – Present
 
 - Created websites (using HTML, CSS3, JS, WordPress)
 - Design websites (using Photoshop, Figma)
@@ -100,7 +102,7 @@ return finalString;
 
 ### Website master
 
-**Pink Panther Food | Aug 2015 – Dec 2018**
+#### Pink Panther Food | Aug 2015 – Dec 2018
 
 - Co-owner, responsibility for preparation and manage documents
 - Administration of the company website
@@ -112,8 +114,7 @@ return finalString;
 
 ### Software Developer (Delphi 7 + MySQL)
 
-**Centre of Fishery Monitoring and Communications, Federal Government, Russia | 2006 – 2015**
-Key Responsibilities:
+#### Centre of Fishery Monitoring and Communications, Federal Government, Russia | 2006 – 2015
 
 - Preparation of technical requirements and specifications for software development projects
 - Maintenance and development of software applications built in Delphi environment;
